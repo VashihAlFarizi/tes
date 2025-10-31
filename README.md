@@ -1,640 +1,267 @@
-QUIS  
-3.Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,01, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan 8 kg? Maka tentukan daerah kritisnya:
-Z-2,576
-Z<-2,576 atau Z>2,576*
-Z>2,576
-Z<-1,96atauZ>1,96
-Z>1,96
-4. Rata-rata selisih kuadrat data dengan nilai rata-rata data disebut juga dengan…
-Jangkauan (range)
-Rata-rata Simpangan
-Simpangan Baku
-Varians*
-Kuartil
-5. Hasil pengukuran numerik yang menggambarkan keadaan sampe disebut:
-Parameter
-Statistik*
-Statistika
-Value
-Nilal Sampel
-6.Perusahaan t n farmasi mengklaim bahwa obat penurun tekanan darah yang mereka produksi dapat menurunkan tekanan darah rata-rata lebih dari 10 mmHg setelah digunakan selama 4 minggu. Untuk menguji klaim tersebut, seorang peneliti mengambil sampel acak sebanyak 40 pasien yang menggunakan obat tersebut. Dari sampel tersebut, diperoleh penurunan tekanan darah rata-rata sebesar 10,5 mmHg dengan simpangan baku populasi sebesar 1,2 mmHg. Dengan taraf signifikansi 5%, maka nilai z tabel pengujian H0 dan H1 adalah:
-1.645*
-1,635
-1,625
-1,615
-1,605
-7. Jika X adalah peubah acak seragam yang menyatakan isi yang sebenarnya dalam ons kaleng kopi. Distribusi X dinyatakan F(x)=1/1.5 dengan 15.5≤X≤17.0. Maka peluang kaleng akan berisi kurang dari 16 ons adalah:
-0.3333*
-0.4444
-0.5555
-0.6666
-0.7777
-8.Rata-rata selisih mutlak antara data dengan rata-ratanya disebut juga dengan…
-Jangkauan (range)
-Rata-rata Simpangan*
-Simpangan Baku
-Varian
-Kuartil
+Quiz 1 (21 Soal)
+1. Uji Hipotesis - Daerah Kritis (α = 0.01)
+Soal: Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,01, ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan 8 kg. Tentukan daerah kritisnya.
+Jawaban: ✅ Z < -2,576 atau Z > 2,576
 
-9.Hasil pengukuran numerik yang menggambarkan keadaan populasi disebut:
-Parameter*
-Statistik
-Statistika
-Value
-Nilal Sampel
-10.Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,01, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan 8 kg? Maka tentukan nilai z hitungnya:
-2,83
-2,82
--2,82
--2,83*
--2,81
-11.Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran pemusatan data:
-Jarak interkuartil
-IQR
-Media*
-Modus*
-Mean*
-12.Berikut merupakan nilai untuk mengukur penyebaran data:
-Varians*
-Standar Deviasi*
-Skewness*
-Kurtosis*
-Modus
-13. Perusahaan farmasi mengklaim bahwa obat penurun tekanan darah yang mereka produksi dapat menurunkan tekanan darah rata-rata lebih dari 10 mmHg setelah digunakan selama 4 minggu. Untuk menguji klaim tersebut, seorang peneliti mengambil sampel acak sebanyak 40 pasien yang menggunakan obat tersebut. Dari sampel tersebut, diperoleh penurunan tekanan darah rata-rata sebesar 10,5 mmHg dengan simpangan baku populasi sebesar 1,2 mmHg. Dengan taraf signifikansi 5%, maka nilai z hitungny adalah:
-1,63*
-2,61
--2.63
--2,61
--2,50
-14.Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,01, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan 8 kg? Maka Hipotesisnya sebagai berikut:
-H0: miu sama dengan &; H1: miu tidak sama dengan 8*
-H0: miu sama dengan 8; H1: miu kurang dari 8
-H0: miu sama dengan 8; H1: mlu lebih dari 8
-H0: miu sama dengan 7.5; H1: miu tidak sama dengan 7.5
-H0: miu sama dengan 7.5; H1: miu lebih dari 7.5
-15.Perusahaan farmasi mengklaim bahwa obat penurun tekanan darah yang mereka produksi dapat menurunkan tekanan darah rata-rata lebih dari 10 mmHg setelah digunakan selama 4 minggu. Untuk menguji klaim tersebut, seorang peneliti mengambil sampel acak sebanyak 40 pasien yang menggunakan obat tersebut. Dari sampel tersebut, diperoleh penurunan tekanan darah rata-rata sebesar 10,5 mmHg dengan simpangan baku populasi sebesar 1,2 mmHg. Dengan taraf signifikansi 5%, ujilah maka H0 dan H1 yang tepat adalah:
-H0 = 10 mmHg vs H1 = 10 mmHg
-H0 < 10 mmHg vs H12 ≥ 10 mmHg
-H0 = 10 mmHg vs H1 ≤ 10 mmHg
-H0 = 10 mmHg vs H1 ≥ 10 mmHg*
-H0 > 10 mmHg vs H1 ≤ 10 mmHg
-16.Diketahui data X menyebar secara normal dengan nilai tengah 40 dan ragam 4. Maka besarnya peluang data X kurang dari 35 adalah:
-P(X≤ 35)=P(Z≤(35-40)/4
-P(X≤ 35)=P(Z≤(35-40)/2*
-P(X≥ 35)=P(Z≥  (35-401/4
-P(X≥ 35)=P(Z≥ (35-40)/2
-P(X≥ 35)=1-P(X≤35)=1-P(Z≤(35-40)/2
-17.Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0.5 ko. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,05, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan 8 kq? Maka tentukan daerah kritisnya
-Z<-2,576
-Z<-2,576 atau Z>2,576
-Z>2,576
-Z<-1,96 atau Z>1,96*
-Z<-1,96
-18..QuestionPerusahaan farmasi mengklaim bahwa obat penurun tekanan darah yang mereka produksi dapat menurunkan tekanan darah rata-rata lebih dari 10 mmHg setelah digunakan selama 4 minggu. Untuk menguji klaim tersebut, seorang peneliti mengambil sampel acak sebanyak 40 pasien yang menggunakan obat tersebut. Dari sampel tersebut, diperoleh penurunan tekanan darah rata-rata sebesar 10,5 mmHg dengan simpangan baku populasi sebesar 1,2 mmHg. Dengan taraf signifikansi 5%, maka keputusan yang diambil adalah:
-Tidak Menolak HO
-Menolak H0*
-Menerima HO
-Menolak H1
-Tidak menolak H1
-19. Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
-Sensus
-Sampel*
-Populasi
-Contoh*
-Survey
-20. Rata-rata banyaknya partikel radioaktif yang melewati suatu penghitung selama 1 milidetik dalam suatu percobaan dilaboratorium adalah empat. Berapakah probabilitas enam partikel melewati penghitung dalam suatu mili detik tertentu
-Poisson (4; 6)-(e^-6*6^4)/4
-Poisson (4; 6)=(e^-6*6^4)/4!
-Poisson (6;4)-(e^-4*4^6)/4!
-Poisson (6;4)=(e^-4^4/6/6
-Poisson (6; 4)-(e^-4*4^6)/6!*
-21. Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. Dengan taraf signifikasi sebesar 0,05
-Menolak H1
-Menolak HO*
-Tidak Menolak HO
-Menerima HO
-Tidak Menerima H1
-22. Rata-rata banyaknya partikel radioaktif yang melewati suatu penghitung selama 1 milidetik dalam suatu percobaan dilaboratorium adalah empat. Berapakah probabilitas enam partikel melewati penghitung dalam suatu mili detik tertentu?
-0,100
-0,101
-0.102
-0,103
-0,104*
-23. Jika X adalah peubah acak seragam yang menyatakan isi yang sebenarnya dalam ons kaleng kopi. Distribusi X dinyatakan F(x)-1/1.5 dengan 15.5≤Xs 17.0. Maka untuk membuktikan bahwa jumlah peluang=1 untuk semua X adalah:
-∫(1/1.5) dx dengan batas atas 15.5 dan batas bawah 17.0
-∫(1/1.5) dx dengan batas atas 17.0 dan batas bawah 15.5*
-∫(1/15) dx dengan batas atas 15.5 dan batas bawah 17.0
-∫(1/1.5) dx dengan batas atas 17.5 dan batas bawah 15.0
-∫(1/15) dx dengan batas atas 17.5 dan batas bawah 15.0
-UTS
-Dari enam orang anggota suatu organisasi akan dipilih tiga orang pengurus sebagai ketua, sekretaris dan bendahara. Jumlah pemilihan yang mungkin terjadi adalah…
-100
-150
-120*
-250
-300
-Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bukan bola putih…
-⅙*
-2/6
-3/6
-1/3
-5/6
-Dua bola diambil dari dalam kotak yang berisi 2 bola merah dan 4 bola putih. Jika X adalah peubah acak terambilnya bola merah, maka P(x=1) adalah:
-6/15
-8/15*
-1/15
-2/15
-3/15
-Nilai media dari data tersebut adalah
-123, 116, 122, 110, 175, 126, 125, 111, 118, 117.
-117
-118
-120*
-122
-123
-Nilai mean data tersebut adalah:
-123, 116, 122, 110, 175, 126, 125, 111, 118, 117.
-124,35
-124,34
-124,33
-124.32
-124,30*
-Dari enam orang anggota suatu organisasi kemahasiswaan akan dikirim dua orang sebagai perwakilan peserta konferensi mahasoswa. Jumlah susunan yang bisa terbentuk dari pemilihan tersebut adalah
-10
-15*
- 20
- 25
-30
-Berikut ini merupakan jenis data qualitative:
-Suhu tubuh
-Nama peserta yang lolos seleksi*
-Daftar nama peserta yang hadir*
-Uang di dompet
-Jumlah mobil yang melewati tol Samarinda-Balikpapan
-Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bukan bola putih …
-1/6
-⅔*
-3/6
-1/3
-5/6
-Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran sebaran data:
-Jarak interkuartil*
-IQR*
-Median
-Modus
-Mean
-Dari 10 orang anggota dewan presidium Himpunan Mahasiswa Informatika Unmul, ingin ditentukar Ketua dan Bendahara himpunan tersebut. Berapa jumlah kemungkinan cara terbentuknya pengurus tersebut.*
-70
-75
-80
-85
-90*
-Perhatikan fungsi kepekatan peubah acak kontinyu tersebut. Maka tentukan P(0 < X <=1) adalah:*
+2. Ukuran Penyebaran Data - Varians
+Soal: Rata-rata selisih kuadrat data dengan nilai rata-rata data disebut juga dengan…
+Jawaban: ✅ Varians
 
-7/9
-5/9
-3/9
-2/9
-1/9*
-Perhatikan gambar berikut, tanda 'o' menunjukkan nilai?*
+3. Statistik vs Parameter
+Soal: Hasil pengukuran numerik yang menggambarkan keadaan sampel disebut:
+Jawaban: ✅ Statistik
 
-Maximum
-Outlier*
-Kuartil 1
-Kuartil 3
-Pencilan*
-Dua bola diambil dari dalam kotak yang berisi 2 bola merah dan 4 bola putih. Jika X adalah peubah acak terambilnva bola merah, maka P(x<2) adalah:*
-6/15
-8/15
-11/15
-13/15
-14/15*
-Berikut bukan merupakan data nominal atau ordinal:
-Peringkat murid di kelas
-Besaran gaji pegawai*
-Golongan pangkat pegawai
-Masa kerja*
-Gelar dan tanda jasa
-Berikut merupakan jenis data yang bukan quantitative:
-Nomor telepon*
-Rekening Bank*
-Kode Mesin*
-Tempat dan Tanggal Lahir*
-Jarak tempuh
-Pada diagram batang daun, maka masing-masing nilai jumlah sample, nilai minimum dan maksimum adalah
+4. Uji Hipotesis - Nilai Z Tabel (α = 5%, Uji Satu Arah)
+Soal: Perusahaan farmasi mengklaim bahwa obat penurun tekanan darah yang mereka produksi dapat menurunkan tekanan darah rata-rata lebih dari 10 mmHg setelah digunakan selama 4 minggu. Untuk menguji klaim tersebut, seorang peneliti mengambil sampel acak sebanyak 40 pasien. Dari sampel tersebut, diperoleh penurunan tekanan darah rata-rata sebesar 10,5 mmHg dengan simpangan baku populasi sebesar 1,2 mmHg. Dengan taraf signifikansi 5%, nilai z tabel adalah:
+Jawaban: ✅ 1,645
 
-40, 69, 77
-40, 19.77
-40. 16, 47*
-40. 16, 77
-40, 19,47
-Diketahui bahwa sebuah mata kuliah memiliki peluang mengulang sebesar 20%. Jika pada semester depan mata kuliah tersebut diambil oleh 20 orang mahasiswa, maka tentukan peluang tidak lebih dari 5 orang mahasiswa mengulang.
-0.6296
-0.8042*
-0.9133
-0.9679
-0.9900
-Tiga bola diambil dari dalam kotak yang berisi 2 bola merah, 4 bola putih dan 6 bola biru. Jika X adalah peubah acak terambilnya bola putih, maka nilai X yang mungkin adalah:
-0, 1,2
-0.1.2.3*
-1, 2, 3, 4
-0,1
-0.1,2.3,4.5,6
-Sebuah uang logam dan sebuah dadu dilempar bersamaan, maka banyaknya anggota dari ruang sampel hasil pelemparan tersebut adalah adalah …
- 2
-4
-12*
-16
- 36
-Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah
-6, 7, 8
-6, 6, 7
-6, 6, 8*
-6, 6, 6
-6, 6, 5
-Berikut merupakan nilai untuk mengukur pemusatan data:
-Varians
-Standar Deviasi
-Skewness
-Kurtosis
-Modus*
-Perhatikan distribusi peubah acak diskret X tersebut. Maka peluang X tidak kurang dari 3 adalah:
+5. Distribusi Seragam - Peluang
+Soal: Jika X adalah peubah acak seragam yang menyatakan isi yang sebenarnya dalam ons kaleng kopi. Distribusi X dinyatakan F(x) = 1/1.5 dengan 15.5 ≤ X ≤ 17.0. Maka peluang kaleng akan berisi kurang dari 16 ons adalah:
+Jawaban: ✅ 0,3333
 
-0.94
-0.78
-0.99
-0.06*
-0.01
-Sebuah bola diambil dari dalam kotak yang berisi 2 bola merah, 4 bola putih dan 6 bola biru. Jika X adalah peubah acak terambilnya bola putih, maka nilai X yang mungkin adalah:
-0, 1, 2
- 0, 1, 2, 3
-1, 2, 3, 4
-0, 1*
-0, 1, 2, 3, 4, 5, 6
-Dari enam orang anggota suatu organisasi akan dipilih tiga orang pengurus sebagai ketua, sekretaris dan bendahara. Jumlah pemilihan yang mungkin terjadi adalah …
-100
-150
-120*
-250
-300
-Tanda '? pada diagram box plot berikut menunjukkan nilai? *
+6. Ukuran Penyebaran - Rata-rata Simpangan
+Soal: Rata-rata selisih mutlak antara data dengan rata-ratanya disebut juga dengan…
+Jawaban: ✅ Rata-rata Simpangan
 
-Minimum. Kuartil 2. Maksimum
-Minimum. Median. Maksimum
-Minimum. Median, Kuartil 3
-Minimum, Kuartil 2, Kuartil 3
-Q1, Q2, Q3*
+7. Parameter Populasi
+Soal: Hasil pengukuran numerik yang menggambarkan keadaan populasi disebut:
+Jawaban: ✅ Parameter
 
-QUIZ 2
-Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bukan bola putih …
-1/6
-2/6
-3/6
-⅔*
-5/6
-Dari enam orang anggota suatu organisasi akan dipilih dua orang sebagai ketua dan wakil ketua. Jumlah susunan yang bisa terbentuk dari pemilihan tersebut adalah…
-10
-15
-20
-25
-30*
-Dari enam orang anggota suatu organisasi akan dipilih dua orang sebagai perwakilan organisasi. Jumlah pemilihan yang mungkin terjadi adalah …
-10
-15*
-20
-25
-30
-Distribusi frekuensi yang divisualisasikan dalam bentuk grafik batang berhimpit disebut juga dengan:
-grafik garis
-grafik batang
-histogram*
-poligon
-ogive
-Berikut merupakan jenis data qualitative:
-Nomor telepon*
-Rekening Bank*
-Kode Mesin*
-Tempat dan Tanggal Lahir
-Jarak tempuh
-Berikut merupakan nilai untuk mengukur penyebaran data
-Varians*
-Standar Deviasi*
-Skewness*
-Kurtosis*
-Modus
+8. Uji Hipotesis - Nilai Z Hitung
+Soal: Dengan data dari soal pancing sintetik (sampel 50, rata-rata 7,8 kg, σ = 0,5 kg, μ₀ = 8 kg), tentukan nilai z hitungnya:
+Jawaban: ✅ -2,83
 
-Berikut ini merupakan jenis data diskret quantitaive:
-Suhu tubuh
-Nama peserta yang lolos seleksi
-Daftar nama peserta yang hadir
-Uang di dompet*
-Jumlah mobil yang melewati tol Samarinda-Balikpapan*
-Berikut merupakan jenis data nominal dan ordinal:
-Peringkat murid di kelas*
-Jenis pekerjaan*
-Golongan pangkat pegawai*
-Masa kerja
-Gelar dan tanda jasa*
-Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah
-6,7,8
-6,6,7
-6, 6, 8*
-6, 6, 6
-6,6,5
-Sebuah uang logam dan sebuah dadu dilempar bersamaan, maka banyaknya anggota dari ruang sampel hasil pelemparan tersebut adalah adalah …
-2
-4
-12*
-16
-36
- Data: 3, 7, 3, 9, 9, 3, 5, 1, 8, Jangkauan (range) dari data tersebut adalah …
-4
-5
-6
-7
-8*
-Sebuah bola diambil dari dalam kotak yang berisi 2 bola merah, 4 bola putih dan 6 bola biru. Jika X adalah peubah acak terambilnya bola putih, maka nilai X yang mungkin adalah:
- 0, 1, 2
- 0, 1,2,3
-1,2,3,4
-0, 1, 2, 3, 4*
-0, 1, 2, 3, 4, 5, 6
-Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
-Sensus
-Sampel*
-Populasi
-Contoh*
-Survey
-Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran pemusatan data:
-Jarak interkuartil
-IOR
-Media*
-Modus*
-Mean*
-Dalam sebuah kotak terdapat 2 merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bola merah.
-⅙*
-2/6
-3/6
-4/6
-5/6
+9. Ukuran Pemusatan Data
+Soal: Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran pemusatan data:
+Jawaban: ✅ Median, Modus, Mean
 
-UAS
-Tentukan besarnya korelasi Pearson dari data berikut:
+10. Ukuran Penyebaran Data
+Soal: Berikut merupakan nilai untuk mengukur penyebaran data:
+Jawaban: ✅ Varians, Standar Deviasi, Skewness, Kurtosis
 
-0.85
-0.87
-0.89*
-0.91
-0.93
-Untuk menyelidiki pengaruh kapasitas RAM antara 1GB, 2GB, 3GB dan 4GB dilakukan percobaan yang mengamati kecepatan akses komputer dengan 5 kali ulang pada tiap perlakuan. Hasil ANOVA seperti pada gambar berikut. Pilihlah semua pernyataan yang benar dari pernyataan-pernyataan berikut:
+11. Uji Hipotesis Farmasi - Nilai Z Hitung
+Soal: Dari data obat penurun tekanan darah (n = 40, x̄ = 10,5, σ = 1,2, μ₀ = 10), nilai z hitungnya adalah:
+Jawaban: ✅ 2,63
 
-Perlakuan sangat signifikan pada taraf alpha 1%*
-Nilal F hitung lebih besar dari F tabel alpha 1%*
-Rumus F hitung adalah Mean Squeare Perlakuan dibagi Mean Square Residu*
-Sum Square Error (SSE) Mean Sq Residuals*
-Perlakuan tidak significant pada alpha 5% dan 10%
-Gambar berikut merupakan ilustrasi ANOVA hasil regresi berganda antara peubah respon Y dan peubah bebas X1 dan X2. Pilihlah semua pernyataan yang benar!
+12. Hipotesis Pancing Sintetik
+Soal: Untuk kasus pancing sintetik dengan μ₀ = 8 kg, hipotesisnya adalah:
+Jawaban: ✅ H₀: μ = 8; H₁: μ ≠ 8
 
-Nilai koefisien dugaan peubah X1 adalah 17,94
-Nilai koefisien dugaan intercept, X1 dan X2 signifikan pada taraf alpha 5%*
-Nilai koefisien duoaan intercept, X1 dan X2 signifikan pada taraf alpha 1%
-Nilai t hitung uji hipotesis signifikansi koefisien X1-2.66*
-Peubah X1 dan X2 berpengaruh signifikan terhadap peubah Y*
-Dari enam orang anggota suatu organisasi akan dipilih dua orang sebagai ketua dan wakil ketua. Jumlah susunan yang bisa terbentuk dari pemilihan tersebut adalah…
-10
-15
-20
-25
-30*
-Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah
-6, 7, 8
-6, 6, 7
-6, 6, 8*
-6, 6, 6
-6, 6, 5
-Jika X adalah peubah acak seragam yang menyatakan isi yang sebenarnya dalam ons kaleng kopi. Distribusi X dinyatakan F(x)=1/1.5 dengan 15.5≤X≤17.0. Maka peluang kaleng akan berisi kurang dari 16 ons adalah:
-0.3333*
-0.4444
-0.5555
-0.6666
-0.7777
-Berikut merupakan nilai untuk mengukur penyebaran data:
-Varians*
-Standar Deviasi*
-Skewness*
-Kurtosis*
-Modus
-Hasil pengukuran numerik yang menggambarkan keadaan sampel disebut:
-Parameter
-Statistik*
-Statistika
-Value
-Nilal Sampel
-Uji kualitas pabrik menyatakan 3 diantara seratus hasil produksi dinyatakan cacat. Pada saat pengujian sebanyak 5 sampel produk, berapa peluang semuanya tidak cacat?
-Binom(5; 3; 100)
-Binom(5: 0: 100)
-Binom(5: 5: 3/100)
-Binom(5: 5: 97/100)*
-Binom(5: 0; 97/100)
-Berikut merupakan jenis data nominal dan ordinal:
-Peringkat murid di kelas*
-Jenis pekerjaan*
-Golongan pangkat pegawai*
-Masa kerja
-Gelar dan tanda jasa*
-Dua buah bola diambil dari dalam sebuah kota berisi 2 bola merah, 2 bola putih dan 2 bola biru. Jika peubah bersama X, Y adalah jumlah terambilnya bola merah dan putih, maka pasangan (xy) yang mungkin adalah:
-(1,2) (0,1): (21)
-(1,1): (1,2): (2,1)
-(0,0): (0,1): (1,0)*
-(0,2): (1,1): (2,0)*
-(2,0 (2.1): (1.1)
-Berdasarkan gambar tersebut, maka pilihlah semua pernyataan yang benar:
+13. Hipotesis Obat Farmasi
+Soal: Untuk klaim obat menurunkan tekanan darah lebih dari 10 mmHg, hipotesis yang tepat adalah:
+Jawaban: ✅ H₀: μ = 10 mmHg vs H₁: μ > 10 mmHg
 
-Nilai intercept dan slope garis regresi adalah 3,83 dan 0,90*
-Koefisien diterminasi persamaan regresi dugaan sebesar 91,3%*
-Koefisien diterminasi terkoreksi persamaan regresi dugaan sebesar 91,0%*
-Berdasarkan uji F menyatakan bahwa peubah Per Red berpengaruh signifikan kepada COD*
-Berdasarkan uji T koefisien slope garis regresi berpengaruh signifikan*
-Jika X adalah peubah acak seragam yang menyatakan isi yang sebenarnya dalam ons kaleng kopi. Distribusi X dinyatakan F(x)=1/1.5 dengan 15.5≤X≤17.0. Maka untuk membuktikan bahwa jumlah peluang=1 untuk semua X adalah:
-∫(1/1.5) dx dengan batas atas 15.5 dan batas bawah 17.0
-∫(1/1.5) dx dengan batas atas 17.0 dan batas bawah 15.5*
-∫(1/15) dx dengan batas atas 15.5 dan batas bawah 17.0
-∫(1/1.5) dx dengan batas atas 17.5 dan batas bawah 15.0
-∫(1/15) dx dengan batas atas 17.5 dan batas bawah 15.0
-Dari enam orang anggota suatu organisasi akan dipilih dua orang sebagai perwakilan organisasi. Jumlah pemilihan yang mungkin terjadi adalah…
-10
-15*
-20
-25
-30
-Perhatikan tabel data berikut. Jika peubah Y merupakan data respon dan X peubah bebas, maka model regresi linear sederhana data tersebut memiliki nilai intercep dan kemiring sebesar:
+14. Distribusi Normal - Peluang
+Soal: Diketahui data X menyebar secara normal dengan nilai tengah 40 dan ragam 4. Besarnya peluang data X kurang dari 35 adalah:
+Jawaban: ✅ P(X ≤ 35) = P(Z ≤ (35-40)/2)
 
-7,00 dan 3,500
-7,60 dan 3,533*
-6.70 dan 5.353
-6,60 dan 3,500
-7,00 dan 3,500
+15. Daerah Kritis (α = 0.05)
+Soal: Untuk uji hipotesis pancing sintetik dengan α = 0,05, daerah kritisnya:
+Jawaban: ✅ Z < -1,96 atau Z > 1,96
 
-Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran pemusatan data:
-Jarak interkuartil
-IQR
-Median*
-Modus*
-Mean*
+16. Keputusan Uji Hipotesis Farmasi
+Soal: Dengan taraf signifikansi 5% untuk data obat farmasi, keputusan yang diambil adalah:
+Jawaban: ✅ Menolak H₀
 
-Hasil pengukuran numerik yang menggambarkan keadaan populasi disebut:
-Parameter*
-Statistik
-Statistika
-Value
-Nilai Sampel
+17. Sampel dan Contoh
+Soal: Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
+Jawaban: ✅ Sampel, Contoh
 
-Nilai median data tersebut adalah:
+18. Distribusi Poisson - Rumus
+Soal: Rata-rata banyaknya partikel radioaktif yang melewati suatu penghitung selama 1 milidetik adalah empat. Probabilitas enam partikel melewati penghitung dalam suatu mili detik tertentu:
+Jawaban: ✅ Poisson(6; 4) = (e⁻⁴ × 4⁶)/6!
 
-30
-31
-32
-33*
-34
+19. Keputusan Pancing Sintetik (α = 0.05)
+Soal: Untuk uji pancing sintetik dengan α = 0,05, keputusannya:
+Jawaban: ✅ Menolak H₀
 
-Perusahaan alat olahraga mengembangican jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8kg dan simpangan baku 0.5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg, Dengan taraf signifikasi sebesar 0,01, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengan s kg? Maka Hipotesisnya sebagai benikut:
-a. H0: miu sama dengan 8; H1: miu tidak sama dengan 8*
-H0: miu sama dengan 8; H1: miu kurang dari 8
-H0: miu sama dengan 8; H1: miu lebih dari 8
-H0: miu sama dengan 7.5; H1: miu tidak sama dengan 7.5
-H0: miu sama dengan 7.5; H1: mlu lebih dari 7.5
+20. Nilai Probabilitas Poisson
+Soal: Dari soal partikel radioaktif, nilai probabilitasnya adalah:
+Jawaban: ✅ 0,104
 
-Sebuah bola diambil dari dalam kotak yang berisi 2 bola merah, 4 bola putih dan 6 bola biru. Jika X adalah peubah acak terambilnya bola putih, maka nilai X yang mungkin adalah:
-0, 1, 2
-0, 1, 2, 3
-1, 2, 3, 4,
-0, 1, 2, 3, 4*
-0, 1, 2, 3, 4, 5, 6
+21. Integral Distribusi Seragam
+Soal: Untuk membuktikan bahwa jumlah peluang = 1 untuk distribusi seragam F(x) = 1/1.5 dengan 15.5 ≤ X ≤ 17.0:
+Jawaban: ✅ ∫(1/1.5) dx dengan batas atas 17.0 dan batas bawah 15.5
 
-Lima buah garis vertikal dari gambar tersebut ( | ) menyatakan:
+UTS (25 Soal)
+1. Permutasi Pengurus Organisasi
+Soal: Dari enam orang anggota suatu organisasi akan dipilih tiga orang pengurus sebagai ketua, sekretaris dan bendahara. Jumlah pemilihan yang mungkin terjadi adalah…
+Jawaban: ✅ 120
+Penjelasan: P(6,3) = 6!/(6-3)! = 6×5×4 = 120
 
-Pencilan bawah 1, Pencilan bawah 2, Minimum, Maksimum, Pencilan atas
-Minimum, Q2, Q3, Maksimum, Pencilan atas
-Pencilan bawah 1, Pencilan bawah 2, Q3, Maksimum, Pencilan atas
-Minimum, Q1, Q2, Q3, Maksimum*
-Q1, Q2, 03, Maksimum, Pencilan atas
+2. Peluang Bukan Bola Putih (Pertama)
+Soal: Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak, berapakah peluang terambil bukan bola putih?
+Jawaban: ✅ 1/6
+Catatan: Ada dua versi soal ini di UTS dengan jawaban berbeda (1/6 dan 2/3)
 
-Diketahui data X menyebar secara normal dengan nilai tengah 40 dan ragam 4. Maka besarnya peluang data X kurang dari 35 adalah:
-P(X≤35)=P(Zs(35-40)/4
-POX≤35)=P(Z≤(35-40/2*
-P(X≤35)=P(Zz (35-40)/4
-POX≤35)=P(Z2 (35-40)/2
-P(X≤35)=1-P(Xs35)=1-P(Zs(35-40/2
+3. Peubah Acak Diskret
+Soal: Dua bola diambil dari dalam kotak yang berisi 2 bola merah dan 4 bola putih. Jika X adalah peubah acak terambilnya bola merah, maka P(x=1) adalah:
+Jawaban: ✅ 8/15
 
-Rata-rata banyaknya partikel radioaktif yang melewati suatu penghitung selama 1 milidetik dalam suatu percobaan dilaboratorium adalah empat. Berapakah probabilitas enam partikel melewati penghitung dalam suatu mili detik tertentu
-Poisson (4; 6)=(e^-66^4)/4
-Poisson (4; 6)=(e^-66^4)/4!
-Poisson (6: 4)=(e^-4*4^6)/4!
-Poisson (6: 4)=(e^-4*4^6)/6!
-Poisson (6; 4)=(e^-4*4^6)/6!*
+4. Median Data
+Soal: Nilai median dari data: 123, 116, 122, 110, 175, 126, 125, 111, 118, 117 adalah:
+Jawaban: ✅ 120
+Penjelasan: Data diurutkan: 110, 111, 116, 117, 118, 122, 123, 125, 126, 175
+Median = (118 + 122)/2 = 120
 
-Data: 3, 7, 3, 9, 9, 3, 5, 1, 8, 5 
-Jangkauan (range) dari data tersebut adalah…
-4
-5
-6
-7
-8*
+5. Mean Data
+Soal: Nilai mean dari data: 123, 116, 122, 110, 175, 126, 125, 111, 118, 117 adalah:
+Jawaban: ✅ 124,30
+Penjelasan: Mean = (123+116+122+110+175+126+125+111+118+117)/10 = 1243/10 = 124,30
 
-Statistika merupakan cabang ilmu yang mempelajari aspek data dalam lingkup berikut:
-Koleksi dan Organisasi*
-Analisis*
-Manipulasi
-Interpretasi*
-Presentasi*
-Beberapa cara pengambilan sampel sebagai berikut:
-Simple random sampling*
-Sirculatic random sampling
-Stratified random sampling*
-Justified random sampling*
-Sistematic random sampling*
-Distribusi frekuensi yang divisualisasikan dalam bentuk grafik batang berhimpit disebut juga dengan:
-grafik garis
-grafik batang
-histogram*
-poligon
-ogive
-Pengumpulan semua data yang terdapat dalam sebuah populasi dinamakan:
-Sensus*
-Sampel
-Populasi
-Contoh
-Survey
-Rata-rata selisih kuadrat data dengan nilai rata-rata data disebut juga dengan…
-Jangkauan (range)
-Rata-rata Simpangan
-Simpangan Baku
-Varians*
-Kuartil
-Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bola merah…
-⅙*
-2/6
-3/6
-4/6
-5/6
-Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
-Sensus
-Sampel*
-Populasi
-Contoh*
-Survey
-Besarnya korelasi antara peubah X dan Y yang diukur dengan software komputasi statistik sebesar 0.90 dengan P Value = 0.001. Dengan taraf pengujian sebesar 1%, maka jika besarnya korelasi tersebut diuji hipotesis, hasil pengujian menyatakan kesimpulan sebagi berikut
-Meneríma hipotesis nol, bahwa korelasinya tidak nyata
-Menerima hipotesis nol. Bahwa korelasinya nyata
-Menolak hipotesis nol, bahwa korelasinya nyata*
-Menolak hipotesis nol, bahwa korelasinya tidak nyata
-Bukan jawaban tersebut
-Uji kualitas pabrik menyatakan 3 diantara seratus hasil produksi dinyatakan cacat. Pada saat pengujian sebanyak 5 sampel produk, berapa peluang semuanya tidak cacat?
-Binom(5; 3: 100)=Kombinasi(5,3)*3*100
-Binom(5; 0; 100)-Kombinasi(5,3)*3*3/100
-Binom(5; 5; 3/100)= Kombinasi(5,0)*3"(3/100)^3
-Binom(5; 5; 97/100)=Kombinasi(5,0) (97/100)^5*(3/100)^0*
-Binom(5; 1; 97/100)= Kombinasi(5,1) (97/100)^1*(3/100) ^4
-Sebuah uang logam dan sebuah dadu dilempar bersamaan, maka banyaknya anggota dari ruang sampel hasil pelemparan tersebut adalah adalah
-2
-4
-12*
-16
-36
-Berikut ini merupakan jenis data diskret quantitaive:
-Suhu tubuh*
-Nama peserta yang lolos seleksi
-Daftar nama peserta yang hadir
-Uang di dompet*
-Jumlah mobil yang melewati tol Samarinda-Balikpapan*
-Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak dari kotak tersebut, berapakah peluang terambil bukan bola putih…
-1/6
-2/6
-3/6
-⅓*
-5/6
-Rata-rata selisih mutlak antara data dengan rata-ratanya disebut juga dengan…
-Jangkauan (range)
-Rata-rata Simpangan*
-Simpangan Baku
-Varian
-Kuartil
-Perusahaan alat olahraga mengembangkan jenis barang pancing sintetik yang diklaim mempunyai rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Telah diketahui bahwa dengan sampel 50 pancing sintetik rata-rata kekuatannya adalah 7,8 kg. engan Dengan taraf signifikasi sebesar 0,01, Ujilah hipotesis bahwa rata-rata populasinya tidak sama dengi 8 kg? Maka tentukan daerah kritisnya:
-Z<-2.576
-Z<-2,576 atau Z>2,576*
-Z>2576
-Z<-1.96atauZ>1.96
-Z>1,96
-Nilai minimum dan maksimum data adalah
+6. Kombinasi Perwakilan
+Soal: Dari enam orang anggota suatu organisasi kemahasiswaan akan dikirim dua orang sebagai perwakilan peserta konferensi mahasiswa. Jumlah susunan yang bisa terbentuk adalah:
+Jawaban: ✅ 15
+Penjelasan: C(6,2) = 6!/(2!×4!) = 15
 
-69, 77
-16, 19
-41, 47
-16, 47*
-39, 47
-Berikut merupakan jenis data qualitative:
-Nomor telepon*
-Rekening Bank*
-Kode Mesin*
-Tempat dan Tanggal Lahir*
-Jarak tempuh
+7. Data Kualitatif
+Soal: Berikut ini merupakan jenis data qualitative:
+Jawaban: ✅ Nama peserta yang lolos seleksi, Daftar nama peserta yang hadir
+
+8. Peluang Bukan Bola Putih (Kedua)
+Soal: Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Jika sebuah bola diambil secara acak, berapakah peluang terambil bukan bola putih?
+Jawaban: ✅ 2/3
+Penjelasan: Total bola = 12, bukan putih = 8, P = 8/12 = 2/3
+
+9. Ukuran Sebaran Data
+Soal: Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran sebaran data:
+Jawaban: ✅ Jarak interkuartil, IQR
+
+10. Permutasi Ketua dan Bendahara
+Soal: Dari 10 orang anggota dewan presidium Himpunan Mahasiswa Informatika Unmul, ingin ditentukan Ketua dan Bendahara himpunan tersebut. Berapa jumlah kemungkinan cara terbentuknya pengurus tersebut?
+Jawaban: ✅ 90
+Penjelasan: P(10,2) = 10×9 = 90
+
+11. Peluang Peubah Acak Kontinyu
+Soal: Untuk fungsi kepekatan peubah acak kontinyu tertentu, P(0 < X ≤ 1) adalah:
+Jawaban: ✅ 1/9
+
+12. Box Plot - Outlier
+Soal: Pada box plot, tanda 'o' menunjukkan nilai?
+Jawaban: ✅ Outlier, Pencilan
+
+13. Peluang Kumulatif
+Soal: Dua bola diambil dari kotak berisi 2 bola merah dan 4 bola putih. Jika X adalah peubah acak terambilnya bola merah, maka P(x < 2) adalah:
+Jawaban: ✅ 14/15
+
+14. Bukan Data Nominal/Ordinal
+Soal: Berikut bukan merupakan data nominal atau ordinal:
+Jawaban: ✅ Besaran gaji pegawai, Masa kerja
+
+15. Bukan Data Kuantitatif
+Soal: Berikut merupakan jenis data yang bukan quantitative:
+Jawaban: ✅ Nomor telepon, Rekening Bank, Kode Mesin, Tempat dan Tanggal Lahir
+
+16. Diagram Batang Daun
+Soal: Pada diagram batang daun, nilai jumlah sample, nilai minimum dan maksimum adalah:
+Jawaban: ✅ 40, 16, 47
+
+17. Distribusi Binomial
+Soal: Sebuah mata kuliah memiliki peluang mengulang 20%. Jika diambil oleh 20 mahasiswa, peluang tidak lebih dari 5 orang mengulang adalah:
+Jawaban: ✅ 0,8042
+
+18. Nilai Peubah Acak
+Soal: Tiga bola diambil dari kotak berisi 2 bola merah, 4 bola putih dan 6 bola biru. Jika X adalah peubah acak terambilnya bola putih, nilai X yang mungkin adalah:
+Jawaban: ✅ 0, 1, 2, 3
+
+19. Ruang Sampel
+Soal: Sebuah uang logam dan sebuah dadu dilempar bersamaan, banyaknya anggota ruang sampel adalah:
+Jawaban: ✅ 12
+Penjelasan: 2 (koin) × 6 (dadu) = 12
+
+20. Mean, Median, Modus
+Soal: Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah:
+Jawaban: ✅ 6, 6, 8
+Penjelasan:
+
+Mean = (8+3+7+4+5+8+5+8+6)/9 = 54/9 = 6
+Data diurutkan: 3,4,5,5,6,7,8,8,8 → Median = 6
+Modus = 8 (muncul 3 kali)
+
+
+21. Ukuran Pemusatan
+Soal: Berikut merupakan nilai untuk mengukur pemusatan data:
+Jawaban: ✅ Modus
+
+22. Distribusi Peubah Acak Diskret
+Soal: Untuk distribusi peubah acak diskret X tertentu, peluang X tidak kurang dari 3 adalah:
+Jawaban: ✅ 0,06
+
+23. Nilai Peubah Acak Bola Putih
+Soal: Sebuah bola diambil dari kotak berisi 2 merah, 4 putih, 6 biru. Jika X adalah peubah acak terambilnya bola putih, nilai X yang mungkin adalah:
+Jawaban: ✅ 0, 1
+Penjelasan: Hanya diambil 1 bola, jadi X = 0 (tidak putih) atau X = 1 (putih)
+
+24. Permutasi Pengurus (Ulangan)
+Soal: Dari enam orang anggota suatu organisasi akan dipilih tiga orang pengurus sebagai ketua, sekretaris dan bendahara. Jumlah pemilihan yang mungkin terjadi adalah:
+Jawaban: ✅ 120
+
+25. Box Plot - Kuartil
+Soal: Tanda '?' pada diagram box plot menunjukkan nilai:
+Jawaban: ✅ Q1, Q2, Q3
+
+Quiz 2 (15 Soal)
+1. Peluang Bukan Bola Putih
+Soal: Dalam sebuah kotak terdapat 2 bola merah, 4 bola putih dan 6 bola biru. Peluang terambil bukan bola putih adalah:
+Jawaban: ✅ 2/3
+
+2. Permutasi Ketua dan Wakil
+Soal: Dari enam orang akan dipilih dua orang sebagai ketua dan wakil ketua. Jumlah susunan yang bisa terbentuk adalah:
+Jawaban: ✅ 30
+Penjelasan: P(6,2) = 6×5 = 30
+
+3. Kombinasi Perwakilan
+Soal: Dari enam orang akan dipilih dua orang sebagai perwakilan organisasi. Jumlah pemilihan yang mungkin adalah:
+Jawaban: ✅ 15
+Penjelasan: C(6,2) = 15
+
+4. Histogram
+Soal: Distribusi frekuensi yang divisualisasikan dalam bentuk grafik batang berhimpit disebut:
+Jawaban: ✅ Histogram
+
+5. Data Kualitatif
+Soal: Berikut merupakan jenis data qualitative:
+Jawaban: ✅ Nomor telepon, Rekening Bank, Kode Mesin
+
+6. Ukuran Penyebaran
+Soal: Berikut merupakan nilai untuk mengukur penyebaran data:
+Jawaban: ✅ Varians, Standar Deviasi, Skewness, Kurtosis
+
+7. Data Diskret Kuantitatif
+Soal: Berikut ini merupakan jenis data diskret quantitative:
+Jawaban: ✅ Uang di dompet, Jumlah mobil yang melewati tol Samarinda-Balikpapan
+
+8. Data Nominal dan Ordinal
+Soal: Berikut merupakan jenis data nominal dan ordinal:
+Jawaban: ✅ Peringkat murid di kelas, Jenis pekerjaan, Golongan pangkat pegawai, Gelar dan tanda jasa
+
+9. Mean, Median, Modus
+Soal: Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah:
+Jawaban: ✅ 6, 6, 8
+
+10. Ruang Sampel
+Soal: Sebuah uang logam dan sebuah dadu dilempar bersamaan, banyaknya anggota ruang sampel adalah:
+Jawaban: ✅ 12
+
+11. Jangkauan (Range)
+Soal: Data: 3, 7, 3, 9, 9, 3, 5, 1, 8. Jangkauan (range) dari data tersebut adalah:
+Jawaban: ✅ 8
+Penjelasan: Range = Max - Min = 9 - 1 = 8
+
+12. Nilai Peubah Acak
+Soal: Sebuah bola diambil dari kotak berisi 2 merah, 4 putih, 6 biru. Jika X adalah peubah acak terambilnya bola putih, nilai X yang mungkin adalah:
+Jawaban: ✅ 0, 1, 2, 3, 4
+Catatan: Ini berbeda dengan soal UTS karena jumlah bola yang diambil berbeda
+
+13. Sampel dan Contoh
+Soal: Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
+Jawaban: ✅ Sampel, Contoh
+
+14. Ukuran Pemusatan Data
+Soal: Nilai yang menggambarkan titik pusat data dinamakan ukuran pemusatan. Berikut merupakan ukuran pemusatan data:
+Jawaban: ✅ Median, Modus, Mean
+
+15. Peluang Bola Merah
+Soal: Dalam kotak terdapat 2 merah, 4 putih, 6 biru. Peluang terambil bola merah adalah:
+Jawaban: ✅ 1/6
+Penjelasan: P = 2/12 = 1/6
