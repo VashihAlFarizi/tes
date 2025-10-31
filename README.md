@@ -436,8 +436,7 @@ Jawaban: ✅ Suhu tubuh, Uang di dompet, Jumlah mobil yang melewati tol Samarind
 
 36. Peluang Bukan Bola Putih
 Soal: Dalam kotak terdapat 2 merah, 4 putih, 6 biru. Peluang terambil bukan bola putih adalah:
-Jawaban: ✅ 2/3
-Penjelasan: P = 8/12 = 2/3
+Jawaban: ✅ 1/3
 
 37. Rata-rata Simpangan
 Soal: Rata-rata selisih mutlak antara data dengan rata-ratanya disebut juga dengan…
