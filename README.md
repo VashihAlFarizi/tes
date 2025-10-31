@@ -265,3 +265,192 @@ Jawaban: ✅ Median, Modus, Mean
 Soal: Dalam kotak terdapat 2 merah, 4 putih, 6 biru. Peluang terambil bola merah adalah:
 Jawaban: ✅ 1/6
 Penjelasan: P = 2/12 = 1/6
+
+UAS (40 Soal)
+1. Korelasi Pearson
+Soal: Tentukan besarnya korelasi Pearson dari data yang diberikan:
+Jawaban: ✅ 0,89
+
+2. ANOVA - Pernyataan Benar
+Soal: Untuk menyelidiki pengaruh kapasitas RAM (1GB, 2GB, 3GB, 4GB) terhadap kecepatan akses komputer dengan 5 kali ulang. Pernyataan yang benar:
+Jawaban: ✅
+
+Perlakuan sangat signifikan pada taraf alpha 1%
+Nilai F hitung lebih besar dari F tabel alpha 1%
+Rumus F hitung adalah Mean Square Perlakuan dibagi Mean Square Residu
+Sum Square Error (SSE) = Mean Sq Residuals
+
+
+3. Regresi Berganda
+Soal: Untuk ANOVA hasil regresi berganda antara Y dan X1, X2, pernyataan yang benar:
+Jawaban: ✅
+
+Nilai koefisien dugaan intercept, X1 dan X2 signifikan pada taraf alpha 5%
+Nilai t hitung uji hipotesis signifikansi koefisien X1 = 2,66
+Peubah X1 dan X2 berpengaruh signifikan terhadap peubah Y
+
+
+4. Permutasi Ketua dan Wakil
+Soal: Dari enam orang akan dipilih dua orang sebagai ketua dan wakil ketua. Jumlah susunan yang bisa terbentuk adalah:
+Jawaban: ✅ 30
+
+5. Mean, Median, Modus
+Soal: Data: 8, 3, 7, 4, 5, 8, 5, 8, 6. Rata-rata, Median, Modus dari data tersebut adalah:
+Jawaban: ✅ 6, 6, 8
+
+6. Distribusi Seragam
+Soal: Jika X adalah peubah acak seragam dengan F(x) = 1/1.5 dan 15.5 ≤ X ≤ 17.0, peluang kaleng berisi kurang dari 16 ons adalah:
+Jawaban: ✅ 0,3333
+
+7. Ukuran Penyebaran Data
+Soal: Berikut merupakan nilai untuk mengukur penyebaran data:
+Jawaban: ✅ Varians, Standar Deviasi, Skewness, Kurtosis
+
+8. Statistik Sampel
+Soal: Hasil pengukuran numerik yang menggambarkan keadaan sampel disebut:
+Jawaban: ✅ Statistik
+
+9. Distribusi Binomial - Produk Cacat
+Soal: Uji kualitas pabrik menyatakan 3 dari 100 produk cacat. Pada pengujian 5 sampel, peluang semuanya tidak cacat adalah:
+Jawaban: ✅ Binom(5; 5; 97/100)
+Penjelasan: P(X=5) = C(5,5) × (0,97)⁵ × (0,03)⁰
+
+10. Data Nominal dan Ordinal
+Soal: Berikut merupakan jenis data nominal dan ordinal:
+Jawaban: ✅ Peringkat murid di kelas, Jenis pekerjaan, Golongan pangkat pegawai, Gelar dan tanda jasa
+
+11. Peubah Bersama
+Soal: Dua bola diambil dari kotak berisi 2 merah, 2 putih, 2 biru. Jika peubah bersama X, Y adalah jumlah terambilnya bola merah dan putih, pasangan (x,y) yang mungkin adalah:
+Jawaban: ✅ (0,0); (0,1); (1,0); (0,2); (1,1); (2,0)
+
+12. Regresi Linear Sederhana
+Soal: Berdasarkan gambar data regresi, pernyataan yang benar:
+Jawaban: ✅
+
+Nilai intercept dan slope garis regresi adalah 3,83 dan 0,90
+Koefisien determinasi sebesar 91,3%
+Koefisien determinasi terkoreksi sebesar 91,0%
+Berdasarkan uji F, peubah berpengaruh signifikan
+Berdasarkan uji T, koefisien slope berpengaruh signifikan
+
+
+13. Integral Distribusi Seragam
+Soal: Untuk membuktikan bahwa jumlah peluang = 1 untuk distribusi seragam:
+Jawaban: ✅ ∫(1/1.5) dx dengan batas atas 17.0 dan batas bawah 15.5
+
+14. Kombinasi Perwakilan
+Soal: Dari enam orang akan dipilih dua orang sebagai perwakilan organisasi. Jumlah pemilihan yang mungkin adalah:
+Jawaban: ✅ 15
+
+15. Intercept dan Slope
+Soal: Jika Y merupakan data respon dan X peubah bebas, model regresi linear sederhana memiliki nilai intercept dan kemiringan sebesar:
+Jawaban: ✅ 7,60 dan 3,533
+
+16. Ukuran Pemusatan Data
+Soal: Berikut merupakan ukuran pemusatan data:
+Jawaban: ✅ Median, Modus, Mean
+
+17. Parameter Populasi
+Soal: Hasil pengukuran numerik yang menggambarkan keadaan populasi disebut:
+Jawaban: ✅ Parameter
+
+18. Median Data
+Soal: Nilai median dari data yang diberikan adalah:
+Jawaban: ✅ 33
+
+19. Hipotesis Pancing Sintetik
+Soal: Untuk kasus pancing sintetik (μ₀ = 8 kg, α = 0,01), hipotesisnya adalah:
+Jawaban: ✅ H₀: μ = 8; H₁: μ ≠ 8
+
+20. Nilai Peubah Acak Bola Putih
+Soal: Sebuah bola diambil dari kotak berisi 2 merah, 4 putih, 6 biru. Jika X adalah peubah acak terambilnya bola putih, nilai X yang mungkin adalah:
+Jawaban: ✅ 0, 1, 2, 3, 4
+
+21. Lima Garis Vertikal Box Plot
+Soal: Lima buah garis vertikal dari box plot menyatakan:
+Jawaban: ✅ Minimum, Q1, Q2, Q3, Maksimum
+
+22. Distribusi Normal - Peluang
+Soal: Diketahui data X menyebar normal dengan nilai tengah 40 dan ragam 4. Peluang X kurang dari 35 adalah:
+Jawaban: ✅ P(X ≤ 35) = P(Z ≤ (35-40)/2)
+
+23. Distribusi Poisson
+Soal: Rata-rata partikel radioaktif = 4 per milidetik. Probabilitas 6 partikel melewati adalah:
+Jawaban: ✅ Poisson(6; 4) = (e⁻⁴ × 4⁶)/6!
+
+24. Jangkauan (Range)
+Soal: Data: 3, 7, 3, 9, 9, 3, 5, 1, 8, 5. Jangkauan (range) dari data tersebut adalah:
+Jawaban: ✅ 8
+Penjelasan: Range = Max - Min = 9 - 1 = 8
+
+25. Statistika sebagai Ilmu
+Soal: Statistika merupakan cabang ilmu yang mempelajari aspek data dalam lingkup berikut:
+Jawaban: ✅ Koleksi dan Organisasi, Analisis, Interpretasi, Presentasi
+
+26. Metode Pengambilan Sampel
+Soal: Beberapa cara pengambilan sampel sebagai berikut:
+Jawaban: ✅
+
+Simple random sampling
+Stratified random sampling
+Justified random sampling
+Systematic random sampling
+
+
+27. Histogram
+Soal: Distribusi frekuensi yang divisualisasikan dalam bentuk grafik batang berhimpit disebut:
+Jawaban: ✅ Histogram
+
+28. Sensus
+Soal: Pengumpulan semua data yang terdapat dalam sebuah populasi dinamakan:
+Jawaban: ✅ Sensus
+
+29. Varians
+Soal: Rata-rata selisih kuadrat data dengan nilai rata-rata data disebut juga dengan…
+Jawaban: ✅ Varians
+
+30. Peluang Bola Merah
+Soal: Dalam kotak terdapat 2 merah, 4 putih, 6 biru. Peluang terambil bola merah adalah:
+Jawaban: ✅ 1/6
+
+31. Sampel dan Contoh
+Soal: Bagian data yang dilakukan pengukuran untuk menduga parameter populasi dinamakan:
+Jawaban: ✅ Sampel, Contoh
+
+32. Uji Korelasi
+Soal: Korelasi antara X dan Y sebesar 0,90 dengan P Value = 0,001. Dengan taraf pengujian 1%, kesimpulannya:
+Jawaban: ✅ Menolak hipotesis nol, bahwa korelasinya nyata
+Penjelasan: Karena P-value (0,001) < α (0,01), maka H₀ ditolak
+
+33. Distribusi Binomial dengan Rumus Lengkap
+Soal: Uji kualitas pabrik: 3 dari 100 produk cacat. Pada pengujian 5 sampel, peluang semuanya tidak cacat adalah:
+Jawaban: ✅ Binom(5; 5; 97/100) = Kombinasi(5,0) × (97/100)⁵ × (3/100)⁰
+
+34. Ruang Sampel
+Soal: Sebuah uang logam dan sebuah dadu dilempar bersamaan, banyaknya anggota ruang sampel adalah:
+Jawaban: ✅ 12
+
+35. Data Diskret Kuantitatif
+Soal: Berikut ini merupakan jenis data diskret quantitative:
+Jawaban: ✅ Suhu tubuh, Uang di dompet, Jumlah mobil yang melewati tol Samarinda-Balikpapan
+
+36. Peluang Bukan Bola Putih
+Soal: Dalam kotak terdapat 2 merah, 4 putih, 6 biru. Peluang terambil bukan bola putih adalah:
+Jawaban: ✅ 2/3
+Penjelasan: P = 8/12 = 2/3
+
+37. Rata-rata Simpangan
+Soal: Rata-rata selisih mutlak antara data dengan rata-ratanya disebut juga dengan…
+Jawaban: ✅ Rata-rata Simpangan
+
+38. Daerah Kritis (α = 0.01)
+Soal: Perusahaan alat olahraga mengembangkan pancing sintetik dengan rata-rata kekuatan 8 kg dan simpangan baku 0,5 kg. Dengan sampel 50, rata-rata 7,8 kg. Dengan α = 0,01, daerah kritisnya:
+Jawaban: ✅ Z < -2,576 atau Z > 2,576
+
+39. Nilai Minimum dan Maksimum
+Soal: Nilai minimum dan maksimum data dari diagram adalah:
+Jawaban: ✅ 16, 47
+
+40. Data Kualitatif
+Soal: Berikut merupakan jenis data qualitative:
+Jawaban: ✅ Nomor telepon, Rekening Bank, Kode Mesin, Tempat dan Tanggal Lahir
